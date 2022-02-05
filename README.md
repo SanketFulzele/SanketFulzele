@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanketFulzele
 - 👀 I’m interested in ...Designing Websites
 - 🌱 I’m currently learning ...Front-End Development
-- 💞️ I’m looking to collaborate on ...New Websites
+- 💞️ I mostly code in ...HTML, CSS, Bootstrap, Javascript and React.
 - 📫 How to reach me ...mail me on sanketfulzelek6@gmail.com
 
 <!---
