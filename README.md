@@ -18,6 +18,7 @@ I'm a **Front-End Engineer** with **4+ years** of experience building fast, scal
 - 🏢 Currently working as **Software Engineer I** at [Paramaya Technology Services](https://paramaya.in)
 - ⚡ Reduced page load times by up to **40%** using code splitting, lazy loading & React.memo
 - 🚀 Built production systems for clients like **Grant Thornton** and **DSP Mutual Fund**
+- 🌍 Open to exciting opportunities — **15-day notice period**
 - 📬 Reach me at **sanketfulzelek6@gmail.com**
 
 ---
@@ -116,19 +117,23 @@ I'm a **Front-End Engineer** with **4+ years** of experience building fast, scal
 
 ---
 
-💼 Personal Portfolio
+## 💼 Personal Portfolio
+
 <div align="center">
-🌐 sanket-fulzele-portfolio.vercel.app
 
-Built with React.js · TypeScript · Gemini AI — featuring an AI-powered chatbot that knows everything about me!
+### 🌐 [sanket-fulzele-portfolio.vercel.app](https://sanket-fulzele-portfolio.vercel.app/)
 
-Show Image
+> Built with **React.js · TypeScript · Gemini AI** — featuring an AI-powered chatbot that knows everything about me!
+
+[![Visit Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-000000?style=for-the-badge&logoColor=white)](https://sanket-fulzele-portfolio.vercel.app/)
+
 </div>
 
-⚡ Fully responsive, performance-optimized personal portfolio
-🤖 Integrated Gemini AI Chatbot — ask it anything about my work & experience
-🎨 Clean, modern UI with smooth animations
-📁 Showcases all major projects, skills, and professional journey
+- ⚡ Fully responsive, performance-optimized personal portfolio
+- 🤖 Integrated **Gemini AI Chatbot** — ask it anything about my work & experience
+- 🎨 Clean, modern UI with smooth animations
+- 📁 Showcases all major projects, skills, and professional journey
+
 ---
 
 <div align="center">
