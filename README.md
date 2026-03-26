@@ -116,12 +116,19 @@ I'm a **Front-End Engineer** with **4+ years** of experience building fast, scal
 
 ---
 
-## 🌱 Currently Working On
+💼 Personal Portfolio
+<div align="center">
+🌐 sanket-fulzele-portfolio.vercel.app
 
-- 🔮 **AstroSage-style Birth Details Platform** — React + TypeScript + i18n (multi-language support)
-- 🤖 **AI Portfolio Chatbot** — Personal portfolio with Gemini API integration
-- 🚿 **Fixhubb** — Water tank cleaning service business → [fixhubb.vercel.app](https://fixhubb.vercel.app)
+Built with React.js · TypeScript · Gemini AI — featuring an AI-powered chatbot that knows everything about me!
 
+Show Image
+</div>
+
+⚡ Fully responsive, performance-optimized personal portfolio
+🤖 Integrated Gemini AI Chatbot — ask it anything about my work & experience
+🎨 Clean, modern UI with smooth animations
+📁 Showcases all major projects, skills, and professional journey
 ---
 
 <div align="center">
