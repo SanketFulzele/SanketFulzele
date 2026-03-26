@@ -18,7 +18,6 @@ I'm a **Front-End Engineer** with **4+ years** of experience building fast, scal
 - 🏢 Currently working as **Software Engineer I** at [Paramaya Technology Services](https://paramaya.in)
 - ⚡ Reduced page load times by up to **40%** using code splitting, lazy loading & React.memo
 - 🚀 Built production systems for clients like **Grant Thornton** and **DSP Mutual Fund**
-- 🌍 Open to exciting opportunities — **15-day notice period**
 - 📬 Reach me at **sanketfulzelek6@gmail.com**
 
 ---
